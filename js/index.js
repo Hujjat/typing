@@ -402,7 +402,7 @@
     }
     
     function speed() {
-      var base_speed = 1000 / 120;
+      var base_speed = 2000 / 120;
       return Math.round(base_speed);
     }
     
@@ -664,7 +664,7 @@
     
     function Lib() {
       var lib = {
-        1: "Alyaa Amani Maryam Masoud Shokofa Somia Despina Muzammal Norullah Batool Kamila Mohammad Meena Ruth Zahira".split(" "),
+        1: "Alyaa Amani Maryam Masoud Shokofa Somia Despina Muzammal Norullah Batool Kamila Mohammad Meena Ruth Zahira".toLowerCase().split(" "),
         2: "human try try try try try try try hard hard hard hard hard".split(" "),
         3: "word good best now do easy key board type me you we can play fast live".split(" "),
         4: "color red blue green yello dark white focus share love god".split(" "),
