@@ -664,12 +664,12 @@
     
     function Lib() {
       var lib = {
-        1: "Alyaa Amani Maryam Masoud Shokofa Somia Despina Muzammal Norullah Batool Kamila Mohammad Meena Ruth Zahira".split(" ")
+        1: "Alyaa Amani Maryam Masoud Shokofa Somia Despina Muzammal Norullah Batool Kamila Mohammad Meena Ruth Zahira".split(" "),
         2: "human try try try try try try try hard hard hard hard hard".split(" "),
         3: "word good best now do easy key board type me you we can play fast live".split(" "),
         4: "color red blue green yello dark white focus share love god".split(" "),
         5: "student play typing now yesterday awesome haha just kidding".split(" "),
-        6: "so what was were time use be class important practice practic make".split(" "),
+        6: "so what was were time use be class important practice practic make".split(" ")
       };
       return lib;
     }
